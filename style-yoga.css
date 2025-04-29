@@ -1,0 +1,75 @@
+.background-1 {
+  background-color: rgb(104, 76, 129);
+ 
+}
+
+.background-2 {
+    position: absolute;
+    background: #fff;
+    width: 500px;
+    height: 600px;
+    /*left: -480px;   - Para mover la imagen a la izquierda y comprobar que no se deforma al momento de alejarlo fuera de lo que uno ve en pantalla*/
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  padding: 60px;
+}
+
+.container-1 {
+  color: white;
+
+  margin-left: 100px;
+}
+.title {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.p1 {
+  width: 440px;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.p2 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.boton1 {
+  background-color: transparent;
+  border-radius: 30px;
+  border-color: rgb(255, 255, 255);
+  padding: 20px;
+  color: white;
+}
+
+.yoga-woman {
+  width: 500px;
+  height: auto;
+  border-radius: 40px;
+  position: relative;
+}
+
+.final-container {
+  background-color: rgb(40, 31, 49);
+  position: relative;
+
+  padding: 10px;
+}
+
+p a {
+  color: rosybrown;
+}
+p {
+  color: white;
+  margin: 0 auto;
+  width: 400px;
+}
+
+
