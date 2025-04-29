@@ -8,6 +8,7 @@
     background: #fff;
     width: 500px;
     height: 600px;
+  /*left: -480px;   - Para mover la imagen a la izquierda y comprobar que no se deforma al momento de alejarlo fuera de lo que uno ve en pantalla*/
 }
 
 .container {
